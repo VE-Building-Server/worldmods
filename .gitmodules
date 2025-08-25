@@ -190,3 +190,21 @@
 [submodule "creativesettings"]
 	path = creativesettings
 	url = https://cheapiesystems.com/git/creativesettings
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://github.com/mt-mods/homedecor_modpack
+[submodule "dreambuilder_hotbar"]
+	path = dreambuilder_hotbar
+	url = https://github.com/mt-mods/dreambuilder_hotbar
+[submodule "led_marquee"]
+	path = led_marquee
+	url = https://github.com/mt-mods/led_marquee
+[submodule "invsaw"]
+	path = invsaw
+	url = https://github.com/mt-mods/invsaw
+[submodule "digistuff"]
+	path = digistuff
+	url = https://github.com/mt-mods/digistuff
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
