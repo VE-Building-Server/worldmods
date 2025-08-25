@@ -211,3 +211,6 @@
 [submodule "xcompat"]
 	path = xcompat
 	url = https://github.com/mt-mods/xcompat
+[submodule "roads"]
+	path = roads
+	url = https://cheapiesystems.com/git/roads/
