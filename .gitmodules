@@ -220,3 +220,6 @@
 [submodule "street_signs"]
 	path = street_signs
 	url = https://github.com/mt-mods/street_signs
+[submodule "solidcolor"]
+	path = solidcolor
+	url = https://cheapiesystems.com/git/solidcolor
