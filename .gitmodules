@@ -214,3 +214,6 @@
 [submodule "roads"]
 	path = roads
 	url = https://cheapiesystems.com/git/roads/
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines.git
