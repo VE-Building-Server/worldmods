@@ -223,3 +223,6 @@
 [submodule "solidcolor"]
 	path = solidcolor
 	url = https://cheapiesystems.com/git/solidcolor
+[submodule "digidisplay"]
+	path = digidisplay
+	url = https://cheapiesystems.com/git/digidisplay/
