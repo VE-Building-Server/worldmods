@@ -226,3 +226,6 @@
 [submodule "digidisplay"]
 	path = digidisplay
 	url = https://cheapiesystems.com/git/digidisplay/
+[submodule "home_workshop_modpack"]
+	path = home_workshop_modpack
+	url = https://github.com/mt-mods/home_workshop_modpack
