@@ -229,3 +229,6 @@
 [submodule "home_workshop_modpack"]
 	path = home_workshop_modpack
 	url = https://github.com/mt-mods/home_workshop_modpack
+[submodule "phyics_override_legacy_compat"]
+	path = phyics_override_legacy_compat
+	url = https://github.com/mt-historical/phyics_override_legacy_compat
