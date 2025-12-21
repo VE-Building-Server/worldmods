@@ -232,3 +232,6 @@
 [submodule "phyics_override_legacy_compat"]
 	path = phyics_override_legacy_compat
 	url = https://github.com/mt-historical/phyics_override_legacy_compat
+[submodule "moretrees"]
+	path = moretrees
+	url = https://github.com/mt-mods/moretrees.git
