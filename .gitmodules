@@ -235,3 +235,6 @@
 [submodule "moretrees"]
 	path = moretrees
 	url = https://github.com/mt-mods/moretrees.git
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
